@@ -8,3 +8,7 @@
 Siboniso01/Siboniso01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+alx-pre_course# git config --global user.email 'sibonisolucas76@gmail.com
+alx-pre_course# git config --global user.username 'Siboniso01
